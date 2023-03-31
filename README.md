@@ -1,3 +1,4 @@
+![Alt text](https://github.com/KelxSavage/Diabetes_Query/blob/main/A%20study%20on%20How%20hospitals%20managed%20diabetic%20patients%20(1998-2008).png)
 # A study on how hospitals managed care for Diabetic patients (1998 - 2008)
 
 ### INTRODUCTION
